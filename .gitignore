@@ -1,0 +1,17 @@
+g Ignore video files
+*.mov
+*.mp4
+*.avi
+
+# Ignore the train folder
+/images/train/
+/buffer/roi/
+/images/euclidean/
+
+# pychache
+/__pycache__
+
+# weight
+*.h5
+
+test.ipynb
