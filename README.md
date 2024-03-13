@@ -45,6 +45,8 @@ datagen-train-test-val.py
 
 download weight ของ pre-trained model VGGFace : https://github.com/serengil/deepface_models/releases/download/v1.0/vgg_face_weights.h5 และใส่ไฟล์ดังกล่าวที่โฟลเดอร์ ``model/``
 
+( สำหรับรูปการเทรนของผู้จัด : https://drive.google.com/file/d/1WkoMd609x31sNnF49CNn4OIDtnvyjrzn/view?usp=drive_link )
+
 นำรูป 1 รูปของ user ที่ต้องการ recognize ใส่ไว้ที่ folder ``images/euclidean/``
 
 นำ video ที่ต้องการเบลอใส่ไว้ใน folder ``videos``
